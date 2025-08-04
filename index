@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hoja de Vida Técnica - Miguel Angel Alzate</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f8f8f8;
+      color: #000;
+    }
+    header {
+      background-color: #000;
+      color: #fff;
+      text-align: center;
+      padding: 20px 10px;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      background-color: #fff;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      border-bottom: 2px solid #000;
+      padding-bottom: 5px;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 14px;
+      }
+      section {
+        margin: 10px;
+        padding: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hoja de Vida Técnica</h1>
+    <p>Miguel Angel Alzate Bustamante</p>
+  </header>
+
+  <section>
+    <h2>Datos Personales</h2>
+    <ul>
+      <li><strong>Teléfono:</strong> 3116439253</li>
+      <li><strong>Correo:</strong> miguelalzatebte20@gmail.com</li>
+      <li><strong>Ubicación:</strong> Girardota, Antioquia</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Perfil Profesional/Técnico</h2>
+    <p>
+      Me encuentro realizando una técnica en sistemas, tengo experiencia en
+      mantenimientos de equipos y un poco en programación, con conocimientos en
+      lenguajes como HTML y Python.
+    </p>
+  </section>
+
+  <section>
+    <h2>Formación Académica</h2>
+    <ul>
+      <li><strong>Bachillerato:</strong> I.E.A.G (Once)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Experiencia Técnica / Proyectos</h2>
+    <ul>
+      <li><strong>Zenith Systems:</strong> Proyecto de mantenimiento de equipos</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Habilidades Técnicas</h2>
+    <ul>
+      <li>✔ Lenguajes de programación: HTML y Python</li>
+      <li>✔ Herramientas para equipos de cómputo</li>
+      <li>✔ Sistemas operativos: Microsoft</li>
+      <li>✔ Otras habilidades: Paciencia</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Idiomas</h2>
+    <ul>
+      <li><strong>Inglés:</strong> Básico</li>
+    </ul>
+  </section>
+</body>
+</html>
